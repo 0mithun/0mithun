@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mithun Halder</h1>
 <h3 align="center">A passionate fullstack developer from Bangladesh</h3>
-![I am fullstack Laravel developer](https://scontent.fdac2-1.fna.fbcdn.net/v/t1.6435-9/p180x540/193737922_4243269562455694_3062390317585929092_n.jpg)
+
+![I am fullstack Laravel developer](https://scontent.fdac2-1.fna.fbcdn.net/v/t1.6435-9/p180x540/193737922_4243269562455694_3062390317585929092_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeEVMTny9LbhN5J14sVAFfrt4yWOmsUGJK_jJY6axQYkr2W5afHy4Z72NuFBHuFQ9-cgofYaLsHytC7szserlbxG&_nc_ohc=h2-9OmLrSjkAX_wk2cL&_nc_ht=scontent.fdac2-1.fna&oh=4ea0c4b5a598806bd3f014a33c240df0&oe=6154BAAA)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0mithun&label=Profile%20views&color=0e75b6&style=flat" alt="0mithun" /> </p>
 
