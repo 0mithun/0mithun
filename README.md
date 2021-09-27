@@ -5,11 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0mithun&label=Profile%20views&color=0e75b6&style=flat" alt="0mithun" /> </p>
 
+- 🔭 I’m currently working on [Zakir Soft](https://zakirsoft.com/)
 - 🔭 I’m currently working on [anecdotage.com](https://anecdotage.com)
 
-- 🌱 I’m currently learning **PWA,Dockdr**
+- 🌱 I’m currently learning **PWA, Docker**
 
-- 💬 Ask me about **php, laravel, CSS, HTML, JavaScript,Vue.js, Nuxt.js**
+- 💬 Ask me about **php, laravel, CSS, HTML, JavaScript, Vue.js, Nuxt.js**
 
 - 📫 How to reach me **mithunrptc@gmail.com**
 
