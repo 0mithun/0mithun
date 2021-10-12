@@ -57,7 +57,7 @@
  <hr/>
 
 <p align="center">
-  <img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/naruto_minato.gif"/>
+  <img align="center" alt="OnePiece_Luffy" src="https://github.com/dev-akshat/archive/blob/main/images/gifs/others/dev_boy.gif"/>
 </p>
 
 <p align="center">
