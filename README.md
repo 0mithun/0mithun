@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0mithun&label=Profile%20views&color=0e75b6&style=flat" alt="0mithun" /> </p>
 
-- 🔭 I’m currently working on [Zakir Soft](https://zakirsoft.com/)
+- 🔭 I’m currently working on [InfoDigita Technologies](http://infodigita.com/)
 - 🔭 I’m currently working on [anecdotage.com](https://anecdotage.com)
 
 - 🌱 I’m currently learning **PWA, Docker**
